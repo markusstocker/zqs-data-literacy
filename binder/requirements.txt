@@ -1,4 +1,4 @@
-numpy==1.22.2
+numpy==1.21.5
 pandas==1.4.1
 orkg==0.12.0
 matplotlib==3.5.1
