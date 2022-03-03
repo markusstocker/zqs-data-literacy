@@ -3,3 +3,4 @@ pandas==1.4.1
 orkg==0.12.0
 matplotlib==3.5.1
 tqdm==4.63.0
+scipy==.8.0
